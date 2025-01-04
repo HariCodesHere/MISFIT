@@ -1,6 +1,6 @@
 # MisFIt - Hackathon 2022 Project  
 
-MisFIt is an innovative application developed during the **Hackathon 2022**. It addresses the increasing concerns about stray dog attacks and provides a comprehensive safety system. The project was built under intense competition within a 48-hour timeframe, showcasing teamwork, innovation, and technical expertise.
+MisFIt is an innovative application developed during the **Hackathon 2022**. It addresses the increasing concerns about stray dog attacks and provides a comprehensive safety system. The project was built under intense competition within a 24-hour timeframe, showcasing teamwork, innovation, and technical expertise.
 
 ## 🌟 Key Features  
 
