@@ -1,62 +1,59 @@
-# MisFIt - Hackathon 2022 Project  
+# MisFIt - Stray Dog Safety System 🐕🛡️
+*A Hackathon 2022 Project*
 
-MisFIt is an innovative application developed during the **Hackathon 2022**. It addresses the increasing concerns about stray dog attacks and provides a comprehensive safety system. The project was built under intense competition within a 24-hour timeframe, showcasing teamwork, innovation, and technical expertise.
+[![Hackathon](https://img.shields.io/badge/Hackathon-2022-blueviolet)](https://example.com)
+[![Java](https://img.shields.io/badge/Backend-Java-orange)](https://java.com)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-blue)](https://mysql.com)
 
-## 🌟 Key Features  
+MisFIt is an emergency response system developed during **Hackathon 2022** to address the growing problem of stray dog attacks in urban areas. Built in just 24 hours by a team of student developers.
 
-1. **Emergency SOS:**  
-   - Instantly send alerts to local authorities and nearby users during emergencies.  
-   - Real-time notifications ensure prompt action.  
+## 🌟 Key Features
 
-2. **Danger Area Mapping:**  
-   - Displays real-time maps indicating areas with high stray dog activity.  
-   - Allows users to avoid dangerous zones, ensuring safe routes.  
+### 🚨 Emergency SOS
+- One-tap panic button with GPS location
+- Instant alerts to local authorities and nearby users
+- Works even with spotty network connectivity
 
-3. **User Report System:**  
-   - Collects and manages reports from users about stray dog sightings and incidents.  
-   - Centralized MySQL database to store and analyze the reports.  
+### 🗺️ Danger Zone Mapping
+- Real-time heatmaps of reported incidents
+- Safe route suggestions based on threat level
+- Historical data visualization
 
-## 🛠️ Technology Stack  
+### 📝 Community Reporting
+- Crowdsourced stray dog sightings
+- Photo/video upload capability
+- Admin moderation dashboard
 
-- **Backend:** Java  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Database:** MySQL  
-- **Other Tools:** JSP  
+## 🛠️ Technology Stack
+| Component       | Technology |
+|----------------|------------|
+| Frontend       | HTML, CSS, JavaScript |
+| Backend        | Java (JSP) |
+| Database       | MySQL      |
+| Hosting        | AWS        |
 
-## 🚀 How It Works  
+## 🏆 Hackathon Achievements
+- Top 5 Finalist at Hackathon 2022
+- Best Social Impact Project nominee
+- Featured in local tech blog coverage
 
-1. **Emergency SOS:** Users can press a panic button to send immediate alerts. The alert includes location data, ensuring accurate response.  
-2. **Real-Time Mapping:** Integrated mapping system marks high-risk areas based on user reports and past incidents.  
-3. **Reporting System:** Users can report sightings or incidents, contributing to a dynamic database that helps keep the community informed.  
+## 🚀 Getting Started
+1. Clone the repository:
+```bash
+git clone https://github.com/HashimCodeDev/MisFIt.git
+```
+2. Import into Eclipse/IntelliJ
 
-## 💡 Inspiration  
+3. Configure MySQL database
 
-Stray dog attacks have become a significant concern in many urban and rural areas. MisFIt aims to address this issue by creating a networked safety system that not only responds to emergencies but also proactively prevents them through awareness and informed navigation.
+4. Deploy on Tomcat server
 
-## 🤝 Collaboration  
+## 🤝 Meet the Team
 
-MisFIt was built by a dedicated team of developers during Hackathon 2022. The project combined diverse skills, creative problem-solving, and effective collaboration to develop a functional prototype in record time.
+| Name                                                       | Role       |
+|------------------------------------------------------------|------------|
+| [@HashimCodeDev](https://github.com/HashimCodeDev)         | Lead       |
+| [@HariCodesHere](https://github.com/HariCodesHere)         | Frontend   |
+| [@Alwin-Johnson](https://github.com/Alwin-Johnson)         | Coordinator|
+| [@Tinil-K-Benny](https://github.com/Tinil-K-Benny)         | UI/UX      |
 
-## 📈 Impact  
-
-- Improved community safety by reducing stray dog attack incidents.  
-- Enhanced awareness of high-risk areas through real-time mapping.  
-- Empowered users with a tool for reporting and handling emergencies effectively.  
-
-## 💻 Future Scope  
-
-- Integration with government and animal welfare agencies for better response management.  
-- Expansion to cover other safety-related concerns such as hazardous zones or crime-prone areas.  
-- Addition of machine learning to predict potential risk zones based on historical data.
-
----
-
-## 🏆 Achievements  
-
-- **Hackathon Finalist 2022:** MisFIt stood out among competing projects, earning recognition for its innovative approach and real-world impact.  
-
-## ✨ How to Run the Project  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/HashimCodeDev/MisFIt.git
