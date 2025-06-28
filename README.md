@@ -30,7 +30,7 @@ MisFIt is an emergency response system developed during **Hackathon 2022** to ad
 | Frontend       | HTML, CSS, JavaScript |
 | Backend        | Java (JSP) |
 | Database       | MySQL      |
-| Hosting        | AWS        |
+| Hosting        | Tomcat        |
 
 ## 🏆 Hackathon Achievements
 - Top 5 Finalist at Hackathon 2022
