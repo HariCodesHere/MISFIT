@@ -35,7 +35,7 @@ MisFIt is an emergency response system developed during **Hackathon 2022** to ad
 ## 🏆 Hackathon Achievements
 - Top 5 Finalist at Hackathon 2022
 - Best Social Impact Project nominee
-- Featured in local tech blog coverage
+- Featured in school tech blog coverage
 
 ## 🚀 Getting Started
 1. Clone the repository:
