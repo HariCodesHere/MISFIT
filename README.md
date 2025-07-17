@@ -40,7 +40,7 @@ MisFIt is an emergency response system developed during **Hackathon 2022** to ad
 ## 🚀 Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/HashimCodeDev/MisFIt.git
+git clone https://github.com/HariCodesHere/MisFIt.git
 ```
 2. Import into Eclipse/IntelliJ
 
